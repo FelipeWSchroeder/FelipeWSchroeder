@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Computer Science Student at Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
-- 🔭 QA Tester at Toontown Corporate Clash (https://corporateclash.net/help/credits)
+- 🔭 QA Tester at Toontown Corporate Clash (https://corporateclash.net/help/credits under ALIAS Frituru)
 
 <!--
 **FelipeWSchroeder/FelipeWSchroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
